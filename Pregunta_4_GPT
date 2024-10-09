@@ -1,0 +1,52 @@
+Para enseñar a los estudiantes de sexto grado cómo resolver ecuaciones simples, podemos utilizar dos métodos comunes: **el método de balanceo** y **el método inverso o de operaciones inversas**. Aquí te explico cada uno con ejemplos sencillos.
+
+### Método 1: El Método de Balanceo
+Este método se basa en la idea de que lo que hagas en un lado de la ecuación, debes hacerlo también en el otro lado para que la ecuación se mantenga equilibrada.
+
+#### Ejemplo 1:
+Resolver la ecuación:  
+\[ 3x + 5 = 11 \]
+
+**Pasos:**
+1. **Eliminar el 5** del lado izquierdo para dejar el término con la \(x\) solo. Como está sumando 5, restamos 5 en ambos lados de la ecuación:
+   \[ 3x + 5 - 5 = 11 - 5 \]
+   \[ 3x = 6 \]
+2. **Dividir por 3** en ambos lados para despejar la \(x\):
+   \[ \frac{3x}{3} = \frac{6}{3} \]
+   \[ x = 2 \]
+
+#### Ejemplo 2:
+Resolver la ecuación:  
+\[ x - 4 = 8 \]
+
+**Pasos:**
+1. **Eliminar el -4** del lado izquierdo sumando 4 a ambos lados de la ecuación:
+   \[ x - 4 + 4 = 8 + 4 \]
+   \[ x = 12 \]
+
+### Método 2: El Método Inverso o de Operaciones Inversas
+Este método implica usar las operaciones contrarias para despejar la variable \(x\).
+
+#### Ejemplo 1:
+Resolver la ecuación:  
+\[ 2x = 10 \]
+
+**Pasos:**
+1. \(x\) está multiplicado por 2. La operación inversa de la multiplicación es la **división**, por lo que dividimos ambos lados por 2:
+   \[ x = \frac{10}{2} \]
+   \[ x = 5 \]
+
+#### Ejemplo 2:
+Resolver la ecuación:  
+\[ x + 7 = 13 \]
+
+**Pasos:**
+1. \(x\) tiene un 7 sumando. La operación inversa de la suma es la **resta**, así que restamos 7 a ambos lados:
+   \[ x = 13 - 7 \]
+   \[ x = 6 \]
+
+### Resumen:
+- **Método de balanceo**: Lo que haces en un lado, lo haces en el otro para mantener la ecuación equilibrada.
+- **Método de operaciones inversas**: Usas la operación inversa (sumar/restar o multiplicar/dividir) para despejar la variable.
+
+Ambos métodos ayudan a entender que el objetivo es "aislar" la incógnita para encontrar su valor.
