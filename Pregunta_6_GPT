@@ -1,0 +1,72 @@
+Para crear una gráfica sobre los lenguajes de programación más utilizados, teniendo en cuenta la compatibilidad con navegadores, el diseño responsivo y la accesibilidad, podemos listar los lenguajes y tecnologías más relevantes en cada aspecto. Además, incluimos la fecha de creación y los responsables.
+
+### 1. **HTML (Hypertext Markup Language)**  
+   - **Fecha de creación**: 1991  
+   - **Responsable**: Tim Berners-Lee  
+   - **Características**:  
+     - Base de la estructura de las páginas web.
+     - Compatible con todos los navegadores modernos.
+     - Permite diseño accesible usando etiquetas semánticas (`<nav>`, `<article>`, etc.).
+
+### 2. **CSS (Cascading Style Sheets)**  
+   - **Fecha de creación**: 1996  
+   - **Responsable**: Håkon Wium Lie y Bert Bos  
+   - **Características**:  
+     - Define el diseño visual de las páginas web.
+     - Compatible con todos los navegadores principales.
+     - Diseño responsivo mediante media queries (`@media`).
+     - Mejora la accesibilidad a través de layout flexible y uso de colores contrastantes.
+
+### 3. **JavaScript**  
+   - **Fecha de creación**: 1995  
+   - **Responsable**: Brendan Eich  
+   - **Características**:  
+     - Lenguaje de programación para el comportamiento dinámico en las páginas web.
+     - Altamente compatible con todos los navegadores.
+     - Herramientas como frameworks (React, Vue, Angular) facilitan la creación de interfaces responsivas y accesibles.
+     - Implementación de eventos de teclado y accesibilidad para usuarios con discapacidades.
+
+### 4. **TypeScript**  
+   - **Fecha de creación**: 2012  
+   - **Responsable**: Microsoft  
+   - **Características**:  
+     - Superset de JavaScript con tipado estático.
+     - Compatible con todos los navegadores modernos (tras compilación a JavaScript).
+     - Facilita el desarrollo de grandes aplicaciones responsivas.
+     - Mejora la legibilidad y mantenibilidad del código, lo que también influye en la accesibilidad.
+
+### 5. **Python (en backend con frameworks como Django, Flask)**  
+   - **Fecha de creación**: 1991  
+   - **Responsable**: Guido van Rossum  
+   - **Características**:  
+     - Usado en backend para manejar lógica de servidores web.
+     - Compatible con navegadores al interactuar mediante APIs.
+     - Facilita la creación de aplicaciones accesibles mediante bibliotecas que permiten cumplir con las normas de accesibilidad (WCAG).
+     - Potente para realizar servicios escalables y seguros, garantizando también accesibilidad.
+
+### 6. **PHP**  
+   - **Fecha de creación**: 1994  
+   - **Responsable**: Rasmus Lerdorf  
+   - **Características**:  
+     - Principalmente utilizado en el backend.
+     - Compatible con la mayoría de servidores web (Apache, Nginx) que entregan contenido HTML/CSS/JavaScript a los navegadores.
+     - Permite la creación de aplicaciones accesibles, especialmente con frameworks como Laravel que ofrecen plantillas con buenas prácticas.
+
+### 7. **Ruby (on Rails)**  
+   - **Fecha de creación**: Ruby (1995) / Rails (2004)  
+   - **Responsable**: Yukihiro Matsumoto (Ruby), David Heinemeier Hansson (Rails)  
+   - **Características**:  
+     - Framework de backend que genera HTML compatible.
+     - Buenas prácticas de accesibilidad en sus plantillas y código.
+     - Compatible con todos los navegadores.
+
+### 8. **Java (con Spring, JSP para aplicaciones web)**  
+   - **Fecha de creación**: 1995  
+   - **Responsable**: James Gosling y Sun Microsystems  
+   - **Características**:  
+     - Utilizado en aplicaciones web robustas.
+     - Permite la creación de interfaces responsivas usando frameworks frontend.
+     - Alta compatibilidad con navegadores, aunque más orientado a backend.
+     - Facilita la creación de sistemas accesibles, cumpliendo con estándares.
+
+Ahora que tenemos esta lista de lenguajes y sus características, puedo generar una gráfica comparativa. ¿Te gustaría que lo haga utilizando las herramientas de programación para visualizarla?
